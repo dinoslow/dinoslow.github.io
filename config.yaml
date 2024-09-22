@@ -1,0 +1,20 @@
+baseURL: https://dinoslow.github.io/
+languageCode: en-us
+title: Winston Wang
+theme: PaperMod
+params:
+  # Theme
+  defaultTheme: auto
+  disableThemeToggle: true
+  # Home Information
+  homeInfoParams:
+    Title: Hi! I'm Winston 👋
+    Content: "CS @ National Tsing Hua University | Ex-RA @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
+  # Social Links
+  socialIcons:
+    - name: GitHub
+      url: "https://github.com/dinoslow"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/winston-wang-587843240/"
+  # BreadCrumb
+  ShowBreadCrumbs: true
