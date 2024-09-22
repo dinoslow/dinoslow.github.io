@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://dinoslow.github.io/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 19:56:05 +0800</lastBuildDate><atom:link href="https://dinoslow.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://dinoslow.github.io/posts/my-first-post/</link><pubDate>Mon, 08 Mar 2021 19:56:05 +0800</pubDate><guid>https://dinoslow.github.io/posts/my-first-post/</guid><description>Title qwer
-sub title cool cool click #include&amp;lt;stdio.h&amp;gt;printf(&amp;#34;Hello world&amp;#34;);</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on WINSTON WANG</title><link>https://dinoslow.github.io/posts/</link><description>Recent content in Posts on WINSTON WANG</description><generator>Hugo -- 0.134.3</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 19:56:05 +0800</lastBuildDate><atom:link href="https://dinoslow.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://dinoslow.github.io/posts/my-first-post/</link><pubDate>Mon, 08 Mar 2021 19:56:05 +0800</pubDate><guid>https://dinoslow.github.io/posts/my-first-post/</guid><description>&lt;h1 id="title">Title&lt;/h1>
+&lt;p>qwer&lt;/p>
+&lt;h2 id="sub-title">sub title&lt;/h2>
+&lt;ul>
+&lt;li>cool
+&lt;ul>
+&lt;li>cool&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.youtube.com/">click&lt;/a>
+&lt;img loading="lazy" src="http://images.unsplash.com/photo-1529736576495-1ed4a29ca7e1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=MXwxMjA3fDB8MXxhbGx8fHx8fHx8fA&amp;amp;ixlib=rb-1.2.1&amp;amp;q=80&amp;amp;w=1080" alt="" />
+&lt;img loading="lazy" src="" alt="" />
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c" data-lang="c">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#include&lt;/span>&lt;span style="color:#75715e">&amp;lt;stdio.h&amp;gt;&lt;/span>&lt;span style="color:#75715e">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello world&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;img loading="lazy" src="https://i.imgur.com/xZIETC1.jpg" alt="" />
+&lt;/p></description></item></channel></rss>
