@@ -62,6 +62,10 @@
 {{- else if $term }}
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
+  
+<!-- {{- if not .IsHome }} -->
+{{ partial "special_info.html" . }}
+<!-- {{- end }} -->
 
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}

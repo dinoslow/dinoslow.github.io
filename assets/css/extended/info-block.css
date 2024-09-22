@@ -1,0 +1,24 @@
+.special-info {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+}
+
+.special-info .title-header h2 {
+    margin: 14px 0;
+}
+
+.special-info .entry-header {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+.special-info .entry-content {
+    margin: 14px 0;
+    font-size: 16px;
+    -webkit-line-clamp: 3;
+}

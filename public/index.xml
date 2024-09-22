@@ -6,32 +6,7 @@
     <description>Recent content on WINSTON WANG</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 19:56:05 +0800</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 08 Mar 2021 19:56:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
-&lt;p&gt;qwer&lt;/p&gt;
-&lt;h2 id=&#34;sub-title&#34;&gt;sub title&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;cool
-&lt;ul&gt;
-&lt;li&gt;cool&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/&#34;&gt;click&lt;/a&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://images.unsplash.com/photo-1529736576495-1ed4a29ca7e1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=MXwxMjA3fDB8MXxhbGx8fHx8fHx8fA&amp;amp;ixlib=rb-1.2.1&amp;amp;q=80&amp;amp;w=1080&#34; alt=&#34;&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/xZIETC1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

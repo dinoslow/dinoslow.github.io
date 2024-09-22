@@ -6,27 +6,43 @@ params:
   # Theme
   defaultTheme: auto
   disableThemeToggle: true
+
+  # Profile
+  profileMode:
+    enabled: false
+    title: "WELCOME"
+    buttons:
+      - name: "ABOUT ME"
+
   # Home Information
   homeInfoParams:
     Title: Hi! I'm Winston 👋
     ImageURL: "./images/profile.png"
-    Content: "CS @ National Tsing Hua University (NTHU) | Ex-RA on Diffusion Model @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
+    Content: "CS @ National Tsing Hua University | Ex-RA in Diffusion Model @ <a href='https://www.sinica.edu.tw/en/Tab/4' target='_blank'>Academia Sinica</a>"
     Description:
       - point: "<strong>Phi Tau Phi Scholastic Honor Society</strong> Member <strong> (Top 1%) </strong>"
       - point: "<strong>First Prize</strong> of Graduation Project Competition, NTHU CS <strong> (Top 1%) </strong>"
       - point: "<strong>Vice President</strong>, NTHU CS Student Association"
+
   # Social Links
   socialIcons:
     - name: GitHub
       url: "https://github.com/dinoslow"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/winston-wang-587843240/"
-  # BreadCrumb
-  ShowBreadCrumbs: true
+
+  # Special Information
+  specialInfoParams:
+    enabled: true
+    Title: "What's poppin? 🔥"
+    SpecialTitle: "Buggy"
+    SpecialContent: "A chrome extension that helps user to organize website they find useful yet not interrupting the development process."
+    Link: "https://github.com/Xiayucheng1212/buggy_extension"
+
 
 # Menu
 menu:
   main:
-    - name: Resume
+    - name: RESUME
       url: /assets/CV.pdf
   
