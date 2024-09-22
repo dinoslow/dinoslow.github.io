@@ -5,7 +5,6 @@ theme: PaperMod
 params:
   # Theme
   defaultTheme: auto
-  disableThemeToggle: true
 
   # Profile
   profileMode:
@@ -26,18 +25,34 @@ params:
 
   # Social Links
   socialIcons:
-    - name: GitHub
-      url: "https://github.com/dinoslow"
+    - name: Email
+      url: "mailto:winston0724@gmail.com"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/winston-wang-587843240/"
+    - name: GitHub
+      url: "https://github.com/dinoslow"
 
   # Special Information
   specialInfoParams:
     enabled: true
     Title: "What's poppin? 🔥"
-    SpecialTitle: "Buggy"
-    SpecialContent: "A chrome extension that helps user to organize website they find useful yet not interrupting the development process."
-    Link: "https://github.com/Xiayucheng1212/buggy_extension"
+    Posts:
+      - specialTitle: "Buggy"
+        specialContent: "A chrome extension that helps user to organize website they find useful yet not interrupting the development process."
+        link: "https://github.com/Xiayucheng1212/buggy_extension"
+      - specialTitle: "Aesthetic QR Code"
+        specialContent: "We introduce a novel aesthetic QR code generation pipeline utilizing the ControlNet and the Diffusion Model."
+        link: "https://jwliao1209.github.io/DiffQRCode/"
+
+  # Education Information
+  educationInfoParams:
+    enabled: true
+    Title: "Education 🎓"
+    Schools:
+      - schoolName: "National Tsing Hua University"
+        degree: "B.S., Computer Science"
+        duration: "Sep. 2020 - Jan. 2024 (Graduated Early)"
+        imageUrl: "https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/250099951_4651986334857358_6141501212273265357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eU88B34B3kAQ7kNvgEvKfVJ&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=AsH5TZ8isZtMD6rkYWPShJ7&oh=00_AYDLk_Xd-IR4m6rmuYEVF74VWk0SWnN5kDnKtE46KAEs9A&oe=66F62EA8"
 
 
 # Menu

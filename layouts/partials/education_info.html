@@ -1,0 +1,21 @@
+{{- with site.Params.educationInfoParams }}
+<div class="education-info">
+  <header class="title-header">
+    <h2>{{ .Title }}</h2>
+  </header>
+  <div>
+    {{ range .Schools }}
+    <div class="education-content">
+      <img class="circle-image school-image" src="{{ .imageUrl }}" alt="{{ .schoolName }}" />
+      <div>
+        <header class="entry-header">
+          <h3>{{ .schoolName | markdownify }}</h3>
+        </header>
+        <div class="entry-content">{{ .degree | markdownify }}</div>
+        <div class="entry-content">{{ .duration | markdownify }}</div>
+      </div>
+    </div>
+    {{ end}}
+  </div>
+</div>
+{{- end -}}

@@ -3,14 +3,18 @@
   <header class="title-header">
     <h2>{{ .Title }}</h2>
   </header>
-  <artical class="post-entry">
-    <header class="entry-header">
-      <h2>{{ .SpecialTitle }}</h2>
-    </header>
-    <div class="entry-content">
-      {{ .SpecialContent | markdownify }}
-    </div>
-  </article>
-  <a class="entry-link" href="{{ .Link }}"></a>
+  <div class="special-content">
+    {{ range .Posts }}
+      <article class="post-entry">
+        <header class="entry-header">
+          <h2>{{ .specialTitle | markdownify }}</h2>
+        </header>
+        <div class="entry-content">
+          {{ .specialContent | markdownify }}
+        </div>
+        <a class="entry-link" href="{{ .link }}"></a>
+      </article>
+    {{ end}}
+  </div>
 </div>
 {{- end -}}

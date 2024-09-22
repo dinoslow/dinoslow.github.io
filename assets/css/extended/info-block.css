@@ -1,3 +1,13 @@
+.circle-image {
+    width: inherit;
+    height: inherit;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);  /* Add shadow */
+    object-fit: cover;
+    user-select: none;
+}
+
 .special-info {
     position: relative;
     display: flex;
@@ -21,4 +31,42 @@
     margin: 14px 0;
     font-size: 16px;
     -webkit-line-clamp: 3;
+}
+
+.education-info {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+}
+
+.education-info .title-header h2 {
+    margin: 14px 0;
+}
+
+.education-info .entry-header {
+    overflow: hidden;
+    display: -webkit-box;
+    margin-bottom: 5px;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+.education-info .entry-content {
+    margin: 0;
+    font-size: 14px;
+    -webkit-line-clamp: 3;
+}
+
+.education-info .education-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.school-image {
+    height: 85px;
 }
