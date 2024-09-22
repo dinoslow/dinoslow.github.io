@@ -1,6 +1,6 @@
 baseURL: https://dinoslow.github.io/
 languageCode: en-us
-title: Winston Wang
+title: WINSTON WANG
 theme: PaperMod
 params:
   # Theme
@@ -9,8 +9,12 @@ params:
   # Home Information
   homeInfoParams:
     Title: Hi! I'm Winston 👋
-    Content: "CS @ National Tsing Hua University | Ex-RA on Diffusion Model @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
     ImageURL: "./images/profile.png"
+    Content: "CS @ National Tsing Hua University (NTHU) | Ex-RA on Diffusion Model @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
+    Description:
+      - point: "<strong>Phi Tau Phi Scholastic Honor Society</strong> Member <strong> (Top 1%) </strong>"
+      - point: "<strong>First Prize</strong> of Graduation Project Competition, NTHU CS <strong> (Top 1%) </strong>"
+      - point: "<strong>Vice President</strong>, NTHU CS Student Association"
   # Social Links
   socialIcons:
     - name: GitHub
