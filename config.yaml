@@ -9,7 +9,8 @@ params:
   # Home Information
   homeInfoParams:
     Title: Hi! I'm Winston 👋
-    Content: "CS @ National Tsing Hua University | Ex-RA @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
+    Content: "CS @ National Tsing Hua University | Ex-RA on Diffusion Model @ <a href='https://www.sinica.edu.tw/en/Tab/4'Academia target='_blank'>Academia Sinica</a>"
+    ImageURL: "./images/profile.png"
   # Social Links
   socialIcons:
     - name: GitHub
@@ -18,3 +19,10 @@ params:
       url: "https://www.linkedin.com/in/winston-wang-587843240/"
   # BreadCrumb
   ShowBreadCrumbs: true
+
+# Menu
+menu:
+  main:
+    - name: Resume
+      url: /assets/CV.pdf
+  
