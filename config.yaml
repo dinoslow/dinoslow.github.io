@@ -60,7 +60,7 @@ params:
     Title: "Experience 💼"
     Experiences:
       - companyName: "ROC Army"
-        position: "Mandatory Military Service"
+        position: "Compulsory Military Service"
         duration: "Apr. 2024 - Jul. 2024"
         imageUrl: "https://attic.sh/dte3k86gx46x9k8bwf0kunn40rqp"
         additionalUrl: "https://www.ait.org.tw/military-service-in-taiwan/"
