@@ -1,0 +1,47 @@
+{{- with site.Params.experienceInfoParams }}
+<div class="experience-info">
+  <header class="title-header">
+    <h2>{{ .Title }}</h2>
+  </header>
+  <div>
+    {{ range .Experiences }}
+    <div class="experience-content">
+      <img
+        class="circle-image company-image"
+        src="{{ .imageUrl }}"
+        alt="{{ .schoolName }}"
+      />
+      <div>
+        <header class="entry-header">
+          <h3>{{ .companyName | markdownify }}</h3>
+        </header>
+        {{- if (findRE "://" .additionalUrl) }}
+        <a href="{{ .additionalUrl | absLangURL }}">
+          <div class="entry-content">{{ .position | markdownify }}
+            <svg
+              fill="none"
+              shape-rendering="geometricPrecision"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2.5"
+              viewBox="0 0 24 24"
+              height="12"
+              width="12"
+            >
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+              <path d="M15 3h6v6"></path>
+              <path d="M10 14L21 3"></path>
+            </svg>
+          </div>
+        </a>
+        {{- else }}
+        <div class="entry-content">{{ .position | markdownify }}</div>
+        {{- end }}
+        <div class="entry-content">{{ .duration | markdownify }}</div>
+      </div>
+    </div>
+    {{ end}}
+  </div>
+</div>
+{{- end -}}

@@ -53,6 +53,33 @@ params:
         degree: "B.S., Computer Science"
         duration: "Sep. 2020 - Jan. 2024 (Graduated Early)"
         imageUrl: "https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/250099951_4651986334857358_6141501212273265357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eU88B34B3kAQ7kNvgEvKfVJ&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=AsH5TZ8isZtMD6rkYWPShJ7&oh=00_AYDLk_Xd-IR4m6rmuYEVF74VWk0SWnN5kDnKtE46KAEs9A&oe=66F62EA8"
+  
+  # Experience Information
+  experienceInfoParams:
+    enabled: true
+    Title: "Experience 💼"
+    Experiences:
+      - companyName: "ROC Army"
+        position: "Mandatory Military Service"
+        duration: "Apr. 2024 - Jul. 2024"
+        imageUrl: "https://attic.sh/dte3k86gx46x9k8bwf0kunn40rqp"
+        additionalUrl: "https://www.ait.org.tw/military-service-in-taiwan/"
+      - companyName: "Academia Sinica"
+        position: "Part-time Research Assistant (Diffusion Model)"
+        duration: "Sep. 2023 - Mar. 2024"
+        imageUrl: "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/Academia_Sinica_Emblem.svg/1200px-Academia_Sinica_Emblem.svg.png"
+      - companyName: "Academia Sinica"
+        position: "Research Intern (Diffusion Model)"
+        duration: "Jul. 2023 - Sep. 2023"
+        imageUrl: "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/Academia_Sinica_Emblem.svg/1200px-Academia_Sinica_Emblem.svg.png"
+      - companyName: "National Tsing Hua University"
+        position: "Teaching Assistant of Software Studio (Teaching React, JavaScript)"
+        duration: "Jan. 2023 - Jun. 2023"
+        imageUrl: "https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/250099951_4651986334857358_6141501212273265357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eU88B34B3kAQ7kNvgEvKfVJ&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=AsH5TZ8isZtMD6rkYWPShJ7&oh=00_AYDLk_Xd-IR4m6rmuYEVF74VWk0SWnN5kDnKtE46KAEs9A&oe=66F62EA8"
+      - companyName: "Galaxy Software Services Corporation"
+        position: "Full Stack Developer Intern"
+        duration: "Jul. 2022 - Jan. 2023"
+        imageUrl: "https://yt3.googleusercontent.com/sMbjJYP-JpXZAfo3ETg8qabXmOQh5xFPd8M58P8kE4ZNf0FGNcJa8TfWQ7QYa2RtA_Okzl6h5w=s900-c-k-c0x00ffffff-no-rj"
 
 
 # Menu

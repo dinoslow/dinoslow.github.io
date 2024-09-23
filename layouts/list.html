@@ -59,6 +59,10 @@
 {{- partial "education_info.html" . }}
 {{- end }}
 
+{{- if .IsHome }}
+{{- partial "experience_info.html" . }}
+{{- end }}
+
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
 
