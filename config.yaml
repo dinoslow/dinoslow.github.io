@@ -52,7 +52,7 @@ params:
       - schoolName: "National Tsing Hua University"
         degree: "B.S., Computer Science"
         duration: "Sep. 2020 - Jan. 2024 (Graduated Early)"
-        imageUrl: "https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/250099951_4651986334857358_6141501212273265357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eU88B34B3kAQ7kNvgEvKfVJ&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=AsH5TZ8isZtMD6rkYWPShJ7&oh=00_AYDLk_Xd-IR4m6rmuYEVF74VWk0SWnN5kDnKtE46KAEs9A&oe=66F62EA8"
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/200px-Tsinghua_University_Logo.svg.png"
   
   # Experience Information
   experienceInfoParams:
@@ -75,7 +75,7 @@ params:
       - companyName: "National Tsing Hua University"
         position: "Teaching Assistant of Software Studio (Teaching React, JavaScript)"
         duration: "Jan. 2023 - Jun. 2023"
-        imageUrl: "https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/250099951_4651986334857358_6141501212273265357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eU88B34B3kAQ7kNvgEvKfVJ&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=AsH5TZ8isZtMD6rkYWPShJ7&oh=00_AYDLk_Xd-IR4m6rmuYEVF74VWk0SWnN5kDnKtE46KAEs9A&oe=66F62EA8"
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/200px-Tsinghua_University_Logo.svg.png"
       - companyName: "Galaxy Software Services Corporation"
         position: "Full Stack Developer Intern"
         duration: "Jul. 2022 - Jan. 2023"
