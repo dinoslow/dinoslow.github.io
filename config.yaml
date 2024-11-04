@@ -2,6 +2,7 @@ baseURL: https://dinoslow.github.io/
 languageCode: en-us
 title: WINSTON WANG
 theme: PaperMod
+social: true
 params:
   # Theme
   defaultTheme: auto
