@@ -42,7 +42,7 @@ params:
         link: "https://chromewebstore.google.com/detail/buggy-save-organize-and-s/djenljcggbjleffdeejenepeiialldci"
       - specialTitle: "Aesthetic QR Code"
         specialContent: "We introduce a novel aesthetic QR code generation pipeline utilizing the ControlNet and the Diffusion Model."
-        link: "https://jwliao1209.github.io/DiffQRCode/"
+        link: "https://jwliao1209.github.io/DiffQRCoder/"
 
   # Education Information
   educationInfoParams:
