@@ -22,7 +22,7 @@ params:
     Description:
       - point: "<strong>Phi Tau Phi Scholastic Honor Society</strong> Member <strong> (Top 1%) </strong>"
       - point: "<strong>First Prize</strong> of Graduation Project Competition, NTHU CS <strong> (Top 1%) </strong>"
-      - point: "<strong>Vice President</strong>, NTHU CS Student Association"
+      - point: "<strong>Vice President</strong>, NTHU CS Student Association (2021 - 2022)"
 
   # Social Links
   socialIcons:
@@ -38,12 +38,12 @@ params:
     enabled: true
     Title: "What's poppin? 🔥"
     Posts:
-      - specialTitle: "Buggy"
-        specialContent: "A chrome extension that helps user to organize website they find useful yet not disrupting the development workflow."
-        link: "https://chromewebstore.google.com/detail/buggy-save-organize-and-s/djenljcggbjleffdeejenepeiialldci"
-      - specialTitle: "Aesthetic QR Code"
-        specialContent: "We introduce a novel aesthetic QR code generation pipeline utilizing the ControlNet and the Diffusion Model."
+      - specialTitle: "Our Paper is Accepted by WACV 2025!"
+        specialContent: "DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement - Jia-Wei Liao, Winston Wang*, Tzu-Sian Wang*, Li-Xuan Peng*, Ju-Hsuan Weng, Cheng-Fu Chou, Jun-Cheng Chen"
         link: "https://jwliao1209.github.io/DiffQRCoder/"
+      - specialTitle: "Introducing --- \"Buggy\"!"
+        specialContent: "Buggy, a chrome extension that helps user to organize website they find useful yet not disrupting the development workflow."
+        link: "https://chromewebstore.google.com/detail/buggy-save-organize-and-s/djenljcggbjleffdeejenepeiialldci"
 
   # Education Information
   educationInfoParams:
@@ -53,7 +53,7 @@ params:
       - schoolName: "National Tsing Hua University"
         degree: "B.S., Computer Science"
         duration: "Sep. 2020 - Jan. 2024 (Graduated Early)"
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/200px-Tsinghua_University_Logo.svg.png"
+        imageUrl: "./images/tsinghua.png"
   
   # Experience Information
   experienceInfoParams:
@@ -62,25 +62,25 @@ params:
     Experiences:
       - companyName: "ROC Army"
         position: "Compulsory Military Service"
-        duration: "Apr. 2024 - Jul. 2024"
-        imageUrl: "https://attic.sh/dte3k86gx46x9k8bwf0kunn40rqp"
+        duration: "Apr. 2024 - Aug. 2024"
+        imageUrl: "./images/military.png"
         additionalUrl: "https://www.ait.org.tw/military-service-in-taiwan/"
       - companyName: "Academia Sinica"
         position: "Part-time Research Assistant (Diffusion Model)"
         duration: "Sep. 2023 - Mar. 2024"
-        imageUrl: "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/Academia_Sinica_Emblem.svg/1200px-Academia_Sinica_Emblem.svg.png"
+        imageUrl: "./images/sinica.png"
       - companyName: "Academia Sinica"
         position: "Research Intern (Diffusion Model)"
         duration: "Jul. 2023 - Sep. 2023"
-        imageUrl: "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/Academia_Sinica_Emblem.svg/1200px-Academia_Sinica_Emblem.svg.png"
+        imageUrl: "./images/sinica.png"
       - companyName: "National Tsing Hua University"
         position: "Teaching Assistant of Software Studio (Teaching React, JavaScript)"
         duration: "Jan. 2023 - Jun. 2023"
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/200px-Tsinghua_University_Logo.svg.png"
+        imageUrl: "./images/tsinghua.png"
       - companyName: "Galaxy Software Services Corporation"
         position: "Full Stack Developer Intern"
         duration: "Jul. 2022 - Jan. 2023"
-        imageUrl: "https://yt3.googleusercontent.com/sMbjJYP-JpXZAfo3ETg8qabXmOQh5xFPd8M58P8kE4ZNf0FGNcJa8TfWQ7QYa2RtA_Okzl6h5w=s900-c-k-c0x00ffffff-no-rj"
+        imageUrl: "./images/gss.jpg"
 
 
 # Menu

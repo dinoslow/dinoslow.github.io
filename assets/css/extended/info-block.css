@@ -9,6 +9,11 @@
     user-select: none;
 }
 
+.home-info .entry-content a {
+    color: var(--secondary);
+    text-decoration: underline;
+}
+
 /* special information */
 .special-info {
     position: relative;
